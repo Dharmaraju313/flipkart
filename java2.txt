@@ -1,3 +1,2 @@
 def var = hello
-println "$var"
-  
+
